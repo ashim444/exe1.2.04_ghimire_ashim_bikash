@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Padding  -->
+    <dimen name="pad1"> 16dp</dimen>
+
+    <!-- Margin -->
+    <dimen name="mrgn">12dp</dimen>
+
+    <!--Text size -->
+    <dimen name="txtS">8sp</dimen>
+
+    <!--Text size -->
+    <dimen name="txtS2">6sp</dimen>
+
+    <!--Button text size -->
+    <dimen name="btnTxtsiz">7sp</dimen>
+</resources>

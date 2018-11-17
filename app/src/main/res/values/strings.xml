@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <!-- Height text view -->
+    <string name="textHeight">Height</string>
+
+    <!--weight text view -->
+    <string name="textWeight">Weight</string>
+
+    <!--Text calculate -->
+    <string name="btnClc">Calculate</string>
+
+    <!--text view Age -->
+    <string name="txtAge">Age</string>
+
+    <!-- Hint and CM txt view-->
+    <string name="CM">CM</string>
+
+    <!--Hint and CM text view -->
+    <string name="KG">KG</string>
+
+    <!-- Hint Edt years -->
+    <string name="year">years</string>
+
+    <!--BTN txt Reset  -->
+    <string name="btnReset">Reset</string>
+
+    <!--BMI text view -->
+    <string name="bmiTxt">BMI</string>
+
+    <!-- -->
+    <string name="idlWeight">IDEAL WEIGHT</string>
+
+    <!--Fat text view -->
+    <string name="fat">FAT</string>
+
+    <!-- Message text view-->
+    <string name="message">message</string>
+
+    <!--guess text view -->
+    <string name="guess">?</string>
+    <!-- -->
+    <string name="inptTpye">numberDecimal</string>
+
+    <!-- -->
+    <string name="mesInitial">Enter your details</string>
+
+    <!-- -->
+    <string name="height">CM</string>
+    <!-- -->
+    <string name="actnInfo">Info</string>
+    <!-- -->
+    <string name="actnExit">Exit</string>
+    <!--Home button  view -->
+    <string name="BtnHom">Home</string>
+    <!-- -->
+    <string name="BmiHead">What is BMI?</string>
+    <!--Info text -->
+    <string name="BmiInfo">The body mass index (BMI), or Quetelet index, is a
+                           heuristic proxy for human body fat based on an individual\'s
+                           weight and height. BMI does not actually measure the percentage
+                           of body fat. It was invented between 1830 and 1850 by the Belgian
+                           polymath Adolphe Quetelet during the course of developing \"social
+                           physics\". Body mass index is defined as the individual\'s body weight
+                           divided by the square of his or her height. The formulae universally
+                           used in medicine produce a unit of measure of kg/m2.</string>
+    <string name="BmiInfo2">A frequent use of the BMI is to assess how much an individual\'s
+        body weight departs from what is normal or desirable for a person of his or her height.
+        The weight excess or deficiency may, in part, be accounted for by body fat (adipose tissue)
+        although other factors such as muscularity also affect BMI significantly
+        (see discussion below and overweight).  The WHO regard a BMI of less than 18.5 as
+        underweight and may indicate malnutrition, an eating disorder, or other health problems,
+        while a BMI greater than 25 is considered overweight and above 30 is considered obese.
+        These ranges of BMI values are valid only as statistical categories when applied to adults,
+        and do not predict health.</string>
+    <!-- Spinner data -->
+    <string-array name="sex">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Text clolor of the application -->
+    <color name="txtColour">#379F45</color>
+    <!-- Back ground color of the activity -->
+    <color name="backGround">#F0EFEF</color>
+    <!-- Button color-->
+    <color name="btnColor">#FF960D</color>
+    <!-- BMI danger colour  -->
+    <color name="dngrClor">#F42525</color>
+    <!-- BMI obse colour-->
+    <color name="obseClor">#F47E25</color>
+</resources>
